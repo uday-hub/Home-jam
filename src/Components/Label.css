@@ -1,0 +1,18 @@
+.label-card {
+  width: 10rem;
+  background-color: transparent !important;
+  height: 10rem;
+  border: 1px solid #9496ad !important;
+  border-radius: 50% !important;
+}
+.label-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-link {
+  color: #9496ad;
+  text-decoration: none;
+  font-size: 1.5rem;
+}

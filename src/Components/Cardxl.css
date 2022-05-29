@@ -1,0 +1,15 @@
+.poo {
+  gap: 15px;
+  width: 255px;
+  background: #111229 !important;
+  color: white;
+}
+.card-text {
+  color: #0259eb;
+}
+.heading {
+  color: #682f26;
+  background-color: #e5c558;
+  width: fit-content;
+  padding: 0 5px 0 5px;
+}

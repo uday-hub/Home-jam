@@ -1,0 +1,54 @@
+.bg-img {
+  background-image: url("../Assets/Img.png");
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.qwe {
+  background: #111229;
+}
+.nav-item a {
+  color: white !important;
+}
+.text-light h1 {
+  font-size: 8vh !important;
+}
+.navbar-collapse {
+  flex-grow: 0 !important ;
+}
+.Hero-text {
+  padding-top: 5rem !important;
+}
+.label-main {
+  justify-content: center;
+  align-items: center;
+  column-count: 4 !important;
+}
+.stroke {
+  cursor: pointer;
+}
+.padding {
+  padding-bottom: 15rem !important;
+}
+.viewall {
+  color: #e5c558;
+}
+.upcoming::after {
+  content: "";
+  width: 48px;
+  height: 3px;
+  background-color: #0259eb;
+  left: 0;
+  position: relative;
+  display: block;
+  top: 10px;
+}
+@media screen and (max-width: 994px) {
+  .padding {
+    padding-bottom: 5rem !important;
+  }
+}
+@media screen and (max-width: 415px) {
+  .padding {
+    padding-bottom: 1rem !important;
+  }
+}
